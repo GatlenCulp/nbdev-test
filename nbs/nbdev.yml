@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test"
+  site-url: "https://GatlenCulp.github.io/nbdev-test"
+  description: "TEST"
+  repo-branch: main
+  repo-url: "https://github.com/GatlenCulp/nbdev-test"
